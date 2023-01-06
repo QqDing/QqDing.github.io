@@ -51,13 +51,13 @@ description: Preprints, Journal papers, Conference proceedings
     <li>
       <b>Title:</b> <a href="assets/files/thesis.pdf">Convergence Rates of First-Order Splitting Methods</a>
     </li>
-    <li>
+ <!--    <li>
       <b>Chapter 4</b> contains unpublished result on a general multi-step inertial operator splitting scheme for monotone inclusion problem, which can be used to derive multi-step inertial versions of 
           <ul>
               <li>Forward--Backward splitting, Generalized Forward--Backward, Forward--Douglas--Rachford splitting</li> 
               <li>A class of Primal--Dual splitting methods</li> 
               <li>Proximal Point Algorithm, Douglas--Rachford splitting and Alternating Direction Method of Multipliers (ADMM)</li>
           </ul>
-    </li>
+    </li> -->
 </ul>
 <!-- </div> -->
