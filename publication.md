@@ -1,7 +1,7 @@
 ---
 layout: maths
 title: Publications
-description: Preprints, Journal papers, Conference proceedings
+description: Preprints, Publications
 ---
 
 
@@ -49,7 +49,7 @@ description: Preprints, Journal papers, Conference proceedings
 <!-- <div id="thesis" class="tabcontent"> -->
 <ul>
     <li>
-      <b>Title:</b> <a href="assets/files/thesis.pdf">Convergence Rates of First-Order Splitting Methods</a>
+      <b>Title:</b> <a href="assets/files/thesis.pdf">Mathematical Modeling and Algorithms for Medical Image Reconstruction</a>
     </li>
  <!--    <li>
       <b>Chapter 4</b> contains unpublished result on a general multi-step inertial operator splitting scheme for monotone inclusion problem, which can be used to derive multi-step inertial versions of 
