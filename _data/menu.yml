@@ -17,11 +17,11 @@ toc:
            href: activity.html
            current:
 
-    - type: Teaching
-      mitem:
-         - name: Non-smooth<br />&ensp;Optimization
-           href: nsopt.html
-           current:
+   # - type: Teaching
+   #   mitem:
+   #      - name: Non-smooth<br />&ensp;Optimization
+   #        href: nsopt.html
+   #        current:
 
          # - name: Reading<br />&ensp;Group
          #   href: reading.html
