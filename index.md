@@ -14,7 +14,7 @@ description: "Welcome to my homepage"
         </td>
             
         <td align="left">
-            <p>Qiaoqiao Ding(丁乔乔)<br/>  <a href="https://ins.sjtu.edu.cn/" >Institute of Natural Sciences</a> Shanghai Jiao Tong University</a> <br /></p>
+            <p>Qiaoqiao Ding(丁乔乔)<br/>  <a href="https://ins.sjtu.edu.cn/" >Institute of Natural Sciences</a> <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> <br /></p>
         </td>
 	</tr>
 </table>
@@ -35,9 +35,5 @@ description: "Welcome to my homepage"
 - <b>Research Scientist</b> (2021.10-Present)<br> &ensp; Institute of Natural Science, Shanghai Jiao Tong University.
 - <b>Postdoc research fellow</b> (2018.09-2021.09) <br> &ensp; Department of Mathematics, National University of Singapore.
 - <b>Ph.D. in Mathematics</b> (2018.06) <br> &ensp; School of Mathematics & Institute of Natural Sciences, Shanghai Jiao Tong University. 
-%- <b>M.S. in Mathematics</b> (2013.03) <br> &ensp; School of Mathematics & Institute of Natural Sciences, Shanghai Jiao Tong University. 
-%- <b>B.S. in Mathematics</b> (2010.06) <br> &ensp; School of Mathematics, Qufu Normal University.
-
-
 
 
