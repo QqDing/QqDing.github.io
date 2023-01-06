@@ -1,131 +1,104 @@
 toc: 
     - type: preprint
       papers:
-          - authors: J. Liang and C. Poon
-            title: Screening for Sparse Online Learning
+          - authors: D. Hu, Y. Zhang, W. Li, W. Zhang, K. Reddy, Q. Ding, X. Zhang, Y. Chen and H. Gao.
+            title: "SEA-Net: Structure-Enhanced Attention Network for Limited-Angle CBCT Reconstruction of Clinical Projection Data"
             venue: 
-            year: 2021
-            url: assets/files/journal/sgd-screening.pdf
+            year: 2023
+            url: 
             misc:
 
-          - authors: A. Dutta, J. Liang and X. Li
-            title: A Fast and Adaptive SVD-free Algorithm for General Weighted Low-rank Recovery
+          - authors:  W. Ding, Q. Ding, K. Chen, M. Zhang, L. Lv, D. Feng, J. Kim, L. Bi and H. Qiu
+            title: A shortened model for Logan reference plot implemented via the self-supervised neural network for parametric imaging with dynamic PET<
             venue: 
-            year: 2021
-            url: assets/files/journal/programme.pdf
+            year: 2022
+            url: 
             misc:
 
-          - authors: R. Tovey and J. Liang
-            title: "The Fun is Finite:  Douglas--Rachford and Sudoku Puzzle --- Finite Termination and Local Linear Convergence"
+          - authors: Y. Zhao, Q. Ding and X. Zhang
+            title: "AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection"
             venue: 
-            year: 2020
-            url: assets/files/journal/Sudoku.pdf
+            year: 
+            url: https://openreview.net/pdf?id=9OmCr1q54Z
             misc:
-
-          - authors: C. Poon and J. Liang
-            title: Geometry of First-order Methods and Adaptive Acceleration
+          - authors: Y. Zhao, Y. Wang, Q. Ding, X. Zhang 
+            title: A U-net based ROIs localization and bone age assessment method
             venue: 
-            year: 2020
-            url: assets/files/journal/a2fom.pdf
+            year: 
+            url: 
             misc: 
 
-          - authors: D. Driggs, J. Liang and C. Schönlieb 
-            title: On the Bias-Variance Tradeoff in Stochastic Gradient Methods 
+          - authors:  Y. He, S. Kang, Q. Ding and X. Zhang
+            title: Deep dynamic PET reconstruction by spatial and temporal information synthesis
             venue: 
-            year: 2019
-            url: assets/files/conference/bias.pdf
+            year: 
+            url: 
             misc: 
 
-          - authors: J. Liang, T. Luo and C. Schönlieb
-            title: "Improving “Fast Iterative Shrinkage-Thresholding Algorithm”: Faster, Smarter and Greedier"
+          - authors: Q. Ding, Y. Long, X. Zhang, J. A. Fessler
+            title: Statistical image reconstruction using mixed Poisson-Gaussian noise model for X-ray CT
             venue: 
-            year: 2019
-            url: assets/files/journal/faster-fista.pdf
-            misc: <a href="https://github.com/jliang993/Faster-FISTA"><span style="font-weight:600;color:#1a8cff;">code</span></a>
+            year: 
+            url: https://arxiv.org/pdf/1801.09533.pdf
+            misc: 
 
-          
+   
+
+
     - type: journal
       papers:
-          - authors: D. Driggs, J. Tang, J. Liang, M. Davies and C. Schönlieb 
-            title: "SPRING: A Fast Stochastic Proximal Alternating Method for Non-smooth Non-convex Optimization" 
-            venue: SIAM Journal on Imaging Science
-            year: 2021
-            url: assets/files/conference/spring.pdf
-            misc: accepted 
+          - authors: Q. Ding, H. Ji, Y. Quan and X. Zhang
+            title: A  Dataset-free Deep learning Method for Low-Dose CT Image Reconstruction
+            venue: Inverse Problems 38(10) 104003
+            year: 2022
+            url: https://iopscience.iop.org/article/10.1088/1361-6420/ac8ac6
+            misc: 
 
-          - authors: A. Lewis, J. Liang and T. Tian
-            title: Partial Smoothness and Constant Rank
-            venue: SIAM Journal on Optimization
-            year: 2021
-            url: https://arxiv.org/pdf/1807.03134
-            misc: accepted
+          - authors: X. Bin, C. Zhu, Y. Tang, R. Li and Q, Ding
+            title: Nomogram based on Clinical and Radiomics Data for Predicting Radiation-induced Temporal Lobe Injury in Patients with Non-metastatic Stage T4 Nasopharyngeal Carcinoma
+            venue: Clinical Oncology  34(12) e482-e492
+            year: 2022
+            url: https://www.sciencedirect.com/science/article/pii/S0936655522003193
+            misc: 
 
-          - authors: F. Bian, J. Liang and X. Zhang
-            title: A Stochastic Alternating Direction Method of Multipliers for Non-smooth and Non-convex Optimization
-            venue: Inverse Problems
+          - authors: Q. Ding, Y. Nan, H. Gao and H. Ji
+            title: Deep Learning With Adaptive Hyper-Parameters for Low-Dose CT Image Reconstruction
+            venue: IEEE Transactions on Computational Imaging (TCI)
             year: 2021
-            url: https://arxiv.org/abs/2012.07401
-            misc: <a href="https://doi.org/10.1088/1361-6420/ac0966">DOI:&thinsp;https://doi.org/10.1088/1361-6420/ac0966</a> 
+            url: https://ieeexplore.ieee.org/document/9468943
+            misc: 
 
-          - authors: A. Dutta, F. Hanzely, J. Liang and P. Richtárik
-            title: Best Pair Formulation & Accelerated Scheme for Non-convex Principal Component Pursuit
-            venue: IEEE Trans. on Signal Processing, 68:6128-6141
+          - authors: G. Chen, X. Hong Q. Ding and so no
+            title: "AirNet: Fused analytical and iterative reconstruction with deep neural network regularization for sparse-data CT"  
+            venue: Medical Physics
             year: 2020
-            url: assets/files/journal/bp-pcp.pdf
+            url:   https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14170
             misc:
-
-          - authors: C. Molinari, J. Liang and J. Fadili
-            title: Convergence Rates of Forward–Douglas–Rachford Splitting Method
-            venue: Journal of Optimization Theory and Applications, 182(2):606-639
-            year: 2019
-            url: assets/files/journal/rate-fdr.pdf
-            misc: <a href="https://github.com/jliang993/Rate-FDR"><span style="font-weight:600;color:#1a8cff;">code</span></a>
-  
-          - authors: J. Liang, J. Fadili and G. Peyré
-            title: Local Linear Convergence Analysis of Primal–Dual Splitting Methods
-            venue: Optimization, 67(6):821-853
+          - authors: Q. Ding, G. Chen, X. Zhang, Q. Huang, H. Ji and H. Gao
+            title: Low-dose CT with deep learning regularization via proximal forward backward splitting
+            venue: Physics in Medicine and Biology
+            year: 2020
+            url: https://iopscience.iop.org/article/10.1088/1361-6560/ab831a
+            misc: 
+          - authors: Q. Ding, T. Niu, X. Zhang and Y. Long
+            title: Image-domain multimaterial decomposition for dual-energy CT based on prior information of material images
+            venue: Medical physics, 45(8) 3614-3626
             year: 2018
-            url: assets/files/journal/rate-pd.pdf
+            url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13001
             misc: 
   
-          - authors: J. Liang, J. Fadili and G. Peyré
-            title: Activity Identification and Local Linear Convergence of Forward-Backward-type methods
-            venue: SIAM Journal on Optimization, 27(1):408-437
+          - authors: Q. Ding, M. Burger and X. Zhang
+            title: Dynamic SPECT reconstruction with temporal edge correlation<
+            venue: Inverse Problems, 34(1) 014005
             year: 2017
-            url: assets/files/journal/rate-ifb.pdf
+            url: https://iopscience.iop.org/article/10.1088/1361-6420/aa9a94
             misc: 
 
-          - authors: J. Liang, J. Fadili and G. Peyré
-            title: Local Convergence Properties of Douglas–Rachford and Alternating Direction Method of Multipliers
-            venue: Journal of Optimization Theory and Applications, 172(3):874-913
-            year: 2017
-            url: assets/files/journal/rate-dr.pdf
-            misc: More details on ADMM can be found at <a href="http://arxiv.org/pdf/1606.02116.pdf"><span style="font-weight:600;color:#1a8cff;">arXiv</span></a>
-     
-          - authors: J. Liang, J. Fadili and G. Peyré
-            title: Convergence Rates with Inexact Nonexpansive Operators
-            venue: Mathematical Programming, 59(1):403-434
-            year: 2016
-            url: assets/files/journal/rate-nonexpansive-opt.pdf
-            misc: 
-
-          - authors: J. Liang, X. Zhang
-            title: Retinex by Higher order Total Variation \(L^1\) Decomposition
-            venue: Journal of Mathematical Imaging and Vision, 52(3):345-355
+          - authors: Q. Ding, Y. Zan, Q. Huang and X. Zhang
+            title: "Dynamic SPECT reconstruction from few projections: a sparsity enforced matrix factorization approach"
+            venue: Inverse Problems, 34(1) 014005
             year: 2015
-            url: assets/files/journal/jmiv-retinex.pdf
-            misc: 
+            url:  https://iopscience.iop.org/article/10.1088/0266-5611/31/2/025004
+            misc: <span style="font-weight:600;color:#9e081a;">Insight Paper</span>
 
-          - authors: J. Liang, J. Ma and X. Zhang
-            title: Seismic Data Restoration via Data-driven Framelet
-            venue: Geophysics, 79(3):65-74
-            year: 2014
-            url: assets/files/resources/journal/geophysics-ddtf.pdf
-            misc: 
-
-          - authors: J. Liang, J. Li, Z. Shen and X. Zhang
-            title: Wavelet Frame based Color Image Demosaicing
-            venue: Inverse Problems and Imaging, 7(3):777-794
-            year: 2013
-            url: assets/files/journal/ipi-demosaicing.pdf
-            misc: 
+        
