@@ -14,13 +14,6 @@ toc:
             year: 2022
             url: 
             misc:
-
-          - authors: Y. Zhao, Q. Ding and X. Zhang
-            title: "AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection"
-            venue: 
-            year: 
-            url: https://openreview.net/pdf?id=9OmCr1q54Z
-            misc:
           - authors: Y. Zhao, Y. Wang, Q. Ding, X. Zhang 
             title: A U-net based ROIs localization and bone age assessment method
             venue: 
