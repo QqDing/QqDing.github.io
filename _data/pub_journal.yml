@@ -40,6 +40,14 @@ toc:
 
     - type: journal
       papers:
+
+          - authors: S. Wang, H. Ju, Y. Bai, L. Wang, Q. Ding, X. Jiang, P. Li, X. Lin
+            title: The Prognostic Value of Splenic Abnormalities in Pretreatment 18F- FDG PET/CT in patients with Complete Response Diffuse Large B-cell Lymphoma.
+            venue: Clinical Oncology
+            year: 2023
+            url:
+            misc: 
+      
           - authors: Q. Ding, H. Ji, Y. Quan and X. Zhang
             title: A  Dataset-free Deep learning Method for Low-Dose CT Image Reconstruction
             venue: Inverse Problems 38(10) 104003
