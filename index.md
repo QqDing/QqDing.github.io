@@ -33,7 +33,7 @@ description: "Welcome to my homepage"
 
 ## Working experience and Education
 - <b>Research Scientist</b> (2021.10-Present)<br> &ensp; Institute of Natural Science, Shanghai Jiao Tong University.
-- <b>Postdoc research fellow</b> (2018.09-2021.09) <br> &ensp; Department of Mathematics, National University of Singapore.
+- <b>Postdoc Research Fellow</b> (2018.09-2021.09) <br> &ensp; Department of Mathematics, National University of Singapore.
 - <b>Visit Ph.D. Student in Mathematics</b> (2015.09-2016.09) <br> &ensp; School of Mathematics, University of Muenster. 
 - <b>Ph.D. in Mathematics</b> (2014.09-2018.06) <br> &ensp; School of Mathematics & Institute of Natural Sciences, Shanghai Jiao Tong University. 
 
