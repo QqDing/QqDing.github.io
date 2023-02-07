@@ -1,7 +1,7 @@
 toc: 
     - type: preprint
       papers:
-            - authors:  W. Ding, Q. Ding, K. Chen, M. Zhang, L. Lv, D. Feng, J. Kim, L. Bi and H. Qiu
+          - authors:  W. Ding, Q. Ding, K. Chen, M. Zhang, L. Lv, D. Feng, J. Kim, L. Bi and H. Qiu
             title: A shortened model for Logan reference plot implemented via the self-supervised neural network for parametric imaging with dynamic PET
             venue: 
             year: 2022
