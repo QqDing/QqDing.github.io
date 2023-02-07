@@ -3,7 +3,7 @@
   venue: ICLR
   year: 2023 
   url: https://openreview.net/pdf?id=9OmCr1q54Z
-  misc: Accepted
+  misc: <span style="font-weight:600;color:#9e081a;">Accepted</span>
 - authors: Q. Ding and X. Zhang
   title: MRI Reconstruction by Completing Under-sampled K-space Data with Learnable Fourier Interpolation 
   venue: MICCAI
