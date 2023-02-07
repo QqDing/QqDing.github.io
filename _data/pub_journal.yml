@@ -13,10 +13,6 @@ toc:
             year: 2023
             url: 
             misc:
-
-
-
-
           - authors: Q. Ding, Y. Long, X. Zhang, J. A. Fessler
             title: Statistical image reconstruction using mixed Poisson-Gaussian noise model for X-ray CT
             venue: 
@@ -29,9 +25,6 @@ toc:
 
     - type: journal
       papers:
-
-
-      
           - authors: Q. Ding, H. Ji, Y. Quan and X. Zhang
             title: A  Dataset-free Deep learning Method for Low-Dose CT Image Reconstruction
             venue: Inverse Problems 38(10) 104003
