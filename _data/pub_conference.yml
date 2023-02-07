@@ -1,9 +1,9 @@
 - authors: Y. Zhao, Q. Ding and X. Zhang
   title: "AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection"
   venue: ICLR
-  year: 2023
+  year: 2023 
   url: https://openreview.net/pdf?id=9OmCr1q54Z
-  misc:
+  misc: Accepted
 - authors: Q. Ding and X. Zhang
   title: MRI Reconstruction by Completing Under-sampled K-space Data with Learnable Fourier Interpolation 
   venue: MICCAI
