@@ -27,11 +27,11 @@ description: "Welcome to my homepage"
 - E-mail: dingqiaoqiaoAT sjtu dot edu dot cn
 - Office: Room 328, No. 5 Science Building 
 
-## Research interests
+## Research Interests
 &emsp; Medical Imaging, Inverse Problems and Deep Learning.
 
 
-## Working experience and Education
+## Working Experience and Education
 - <b>Research Scientist</b> (2021.10-Present)<br> &ensp; Institute of Natural Science, Shanghai Jiao Tong University.
 - <b>Postdoc Research Fellow</b> (2018.09-2021.09) <br> &ensp; Department of Mathematics, National University of Singapore.
 - <b>Visit Ph.D. Student in Mathematics</b> (2015.09-2016.09) <br> &ensp; School of Mathematics, University of Muenster. 
