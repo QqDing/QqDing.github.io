@@ -19,6 +19,8 @@ toc:
             year: 
             url: https://arxiv.org/pdf/1801.09533.pdf
             misc: <span style="font-weight:600;color:#9e081a;">Arxiv</span>
+          - authors: Y. Zhao, Y. Wang, Q. Ding, X. Zhang 
+          
 
     - type: journal
       papers:
@@ -28,7 +30,12 @@ toc:
             year: 2022
             url: https://iopscience.iop.org/article/10.1088/1361-6420/ac8ac6
             misc: 
-
+          - authors: S. Wang, H. Ju, Y. Bai, L. Wang, Q. Ding, X. Jiang, P. Li, X. Lin
+            title: The Prognostic Value of Splenic Abnormalities in Pretreatment 18F- FDG PET/CT in patients with Complete Response Diffuse Large B-cell Lymphoma.
+            venue: Clinical Oncology
+            year: 2023
+            url:
+            misc:
           - authors: X. Bin, C. Zhu, Y. Tang, R. Li and Q, Ding
             title: Nomogram based on Clinical and Radiomics Data for Predicting Radiation-induced Temporal Lobe Injury in Patients with Non-metastatic Stage T4 Nasopharyngeal Carcinoma
             venue: Clinical Oncology  34(12) e482-e492
