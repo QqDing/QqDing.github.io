@@ -30,7 +30,7 @@ toc:
       papers:
           - authors:  W. Ding, Q. Ding, K. Chen, M. Zhang, L. Lv, D. Feng, J. Kim, L. Bi and H. Qiu
             title: A shortened model for Logan reference plot implemented via the self-supervised neural network for parametric imaging with dynamic PET
-            venue: IEEE Transactopns on Medical Imaging 
+            venue: IEEE Transactopns on Medical Imaging (TMI)
             year: 2023
             url: 
             misc: <span style="font-weight:600;color:#9e081a;">Accepted</span>
@@ -62,13 +62,13 @@ toc:
 
           - authors: G. Chen, X. Hong Q. Ding and so no
             title: "AirNet: Fused analytical and iterative reconstruction with deep neural network regularization for sparse-data CT"  
-            venue: Medical Physics
+            venue: Medical Physics (MP)
             year: 2020
             url:   https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14170
             misc:
           - authors: Q. Ding, G. Chen, X. Zhang, Q. Huang, H. Ji and H. Gao
             title: Low-dose CT with deep learning regularization via proximal forward backward splitting
-            venue: Physics in Medicine and Biology
+            venue: Physics in Medicine and Biology (PMB)
             year: 2020
             url: https://iopscience.iop.org/article/10.1088/1361-6560/ab831a
             misc: 
