@@ -6,13 +6,13 @@ toc:
             venue: 
             year: 2023
             url: 
-            misc:
+            misc: Submitted
           - authors: D. Hu, Y. Zhang, W. Li, W. Zhang, K. Reddy, Q. Ding, X. Zhang, Y. Chen and H. Gao.
             title: "SEA-Net: Structure-Enhanced Attention Network for Limited-Angle CBCT Reconstruction of Clinical Projection Data"
             venue: 
             year: 2023
             url: 
-            misc:
+            misc: Submitted
           - authors: Q. Ding, Y. Long, X. Zhang, J. A. Fessler
             title: Statistical image reconstruction using mixed Poisson-Gaussian noise model for X-ray CT
             venue: 
@@ -66,7 +66,7 @@ toc:
             url: https://ieeexplore.ieee.org/document/9468943
             misc: 
 
-          - authors: G. Chen, X. Hong Q. Ding and so no
+          - authors: G. Chen, X. Hong Q. Ding and so on
             title: "AirNet: Fused analytical and iterative reconstruction with deep neural network regularization for sparse-data CT"  
             venue: Medical Physics (MP)
             year: 2020
