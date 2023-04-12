@@ -1,6 +1,12 @@
 toc: 
     - type: preprint
       papers:
+          - authors: Y. Jiang, Q. Ding, Y. Wang, P. Lio, X. Zhang
+            title: "Vision Graph U-Net: Geometric Learning Enhanced Encoder for Medical Image Segmentation and Restoration"
+            venue: 
+            year: 2023
+            url: 
+            misc:
           - authors: D. Hu, Y. Zhang, W. Li, W. Zhang, K. Reddy, Q. Ding, X. Zhang, Y. Chen and H. Gao.
             title: "SEA-Net: Structure-Enhanced Attention Network for Limited-Angle CBCT Reconstruction of Clinical Projection Data"
             venue: 
